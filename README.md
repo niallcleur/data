@@ -13,7 +13,7 @@ I'm an ICT and cloud professional with almost 10 years of experience working at 
 This portfolio highlights my ability to:
 - Build end-to-end data pipelines on AWS Cloud
 - Apply machine learning to real-world problems and financial intelligence.
-- Create dashboards using Power BI and Tableau and present data to stakeholders.
+- Create dashboards using **Power BI and Tableau** and present data to stakeholders.
 - Use cloud-based ML platforms such as AWS SageMaker Autopilot and more.
 
 ---
