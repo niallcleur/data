@@ -50,7 +50,7 @@ Built a dashboard focusing on feature importance and customer segmentation. Inte
 **Tools**: AWS SageMaker, SageMaker Autopilot, Quicksight visuals for data
 A complete ML workflow using AWS cloud: cleaning, training, and deploying a fraud detection model using SageMaker Autopilot. Includes fully cloud-hosted infrastructure, storage, cleanign of data and deployment.  
 
-🔗 [View AWS ML Project »](https://github.com/niallcleur/data/tree/f08605364db696bd5b6b87c514aa4190a8b8c2b4/Tableau_CreditCard_Dashboard)
+🔗 [View AWS ML Project »](https://github.com/niallcleur/data/tree/c1f3ce95a4d5b5257214a68a30128c4208fae245/AWS_Fraud_Detection)
 
 ---
 
