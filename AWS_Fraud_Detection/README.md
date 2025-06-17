@@ -1,7 +1,6 @@
 # 🚨 Suspicious Transaction Detection Using AWS ML & Data Pipeline
 
-This project showcases a low-code, cloud-native machine learning pipeline to detect potentially fraudulent financial transactions using AWS. 
-It simulates how a financial institution or regulatory body could automate anomaly detection on a high-volume banking dataset.
+This project showcases a low-code, cloud-native machine learning pipeline to detect potentially fraudulent financial transactions using AWS. It simulates how a financial institution or regulatory body could automate anomaly detection on a high-volume banking dataset.
 
 ---
 
@@ -82,11 +81,11 @@ Uploaded `creditcard.csv` to S3 as the raw input dataset.
 
 ## 📘 Summary
 
-> I built a machine learning model using **Amazon SageMaker Autopilot** to classify fraudulent credit card transactions from real-world-like data.
-> With no coding required, the pipeline uses **S3, Glue, and QuickSight** to demonstrate a practical, scalable solution for financial intelligence.
-> 
-> My model achieved an very high F1 Score, showing strong performance in identifying fraud patterns.
-> This project highlights my capability to design and implement cloud-native ML workflows for regulatory or risk-focused environments.
+I built a machine learning model using **Amazon SageMaker Autopilot** to classify fraudulent credit card transactions from real-world-like data.
+With no coding required, the pipeline uses **S3, Glue, and QuickSight** to demonstrate a practical, scalable solution for financial intelligence.
+
+My model achieved an very high F1 Score, showing strong performance in identifying fraud patterns.
+This project highlights my capability to design and implement cloud-native ML workflows for regulatory or risk-focused environments.
 
 ---
 
