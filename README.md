@@ -2,7 +2,7 @@
 
 Welcome to my AWS, data analytics and machine learning portfolio!  
 
-This repository showcases a selection of projects demonstrating my technical skills in data analysis, machine learning, cloud computing, and data visualization.
+This repository showcases a selection of projects demonstrating my technical skills in data analysis, **data preprocessing, machine learning, cloud computing, and data visualization.**
 
 ---
 
@@ -68,5 +68,5 @@ Feel free to connect with me for collaboration and project discussions.
 
 ---
 
-> Thank you for visiting my portfolio and have a great day!
+> Thank you for visiting my portfolio and have a great day, God bless!
 
