@@ -1,0 +1,206 @@
+﻿Car_Name,Fuel_Type,Eng_Type,Number_of_Doors,Car_Type,Wheel_Drive,No_of_Cylinder,Car_Mileage,Car_Age,Car_Price,Available
+alfa-romero,petrol ,std,2,sedan,fwd,4,130000,9,9109,yes
+alfa-romero,petrol ,std,2,sedan,fwd,4,130000,9,9694,yes
+alfa-romero,petrol ,std,2,sedan,fwd,6,152000,9,5344,yes
+audi,petrol ,std,4,sedan,fwd,4,109000,10,10030,yes
+audi,diesel,std,4,sedan,4wd,5,136000,8,6650,yes
+audi,petrol ,std,2,sedan,fwd,5,136000,8.5,9863,yes
+audi,petrol ,std,4,sedan,fwd,5,136000,8.5,9064,yes
+audi,petrol ,std,4,wagon,fwd,5,,8.5,8508,yes
+audi,diesel,turbo,4,sedan,fwd,5,131000,8.3,9591,yes
+audi,petrol ,turbo,2,sedan,4wd,5,131000,7,6653,yes
+bmw,petrol ,std,2,sedan,fwd,4,108000,8.8,11344,yes
+bmw,petrol ,std,4,sedan,fwd,4,108000,,11283,yes
+bmw,petrol ,std,2,sedan,fwd,6,164000,9,4708,yes
+bmw,petrol ,std,4,sedan,fwd,6,164000,9,7643,yes
+bmw,petrol ,std,4,sedan,fwd,6,164000,9,4484,no
+bmw,petrol ,std,4,sedan,fwd,6,209000,8,8639,yes
+bmw,petrol ,std,2,sedan,fwd,6,209000,8,7251,no
+bmw,petrol ,std,4,sedan,fwd,6,209000,8,5804,no
+chevrolet,petrol ,std,2,sedan,fwd,3,61000,9.5,9221,yes
+chevrolet,petrol ,std,2,sedan,fwd,4,90000,9.6,5856,no
+chevrolet,petrol ,std,4,sedan,fwd,4,90000,9.6,6458,yes
+dodge,petrol ,std,2,sedan,fwd,4,90000,9.4,8993,yes
+dodge,petrol ,std,2,sedan,fwd,4,90000,9.4,6208,yes
+dodge,petrol ,turbo,2,sedan,fwd,4,98000,7.6,,yes
+dodge,petrol ,std,4,sedan,fwd,4,90000,9.4,7274,yes
+dodge,petrol ,std,4,sedan,fwd,4,90000,9.4,6657,yes
+dodge,petrol ,std,4,sedan,fwd,4,90000,9.4,6355,yes
+dodge,petrol ,turbo,4,sedan,fwd,4,98000,7.6,9758,no
+dodge,petrol ,std,4,wagon,fwd,4,122000,8.5,7628,yes
+dodge,petrol ,turbo,2,sedan,fwd,4,156000,7,7953,no
+honda,petrol ,std,2,sedan,fwd,4,92000,9.6,8565,no
+honda,petrol ,std,2,sedan,fwd,4,,9.2,8601,yes
+honda,petrol ,std,2,sedan,fwd,4,79000,10.1,10938,no
+honda,petrol ,std,2,sedan,fwd,4,92000,9.2,7032,no
+honda,petrol ,std,2,sedan,fwd,4,92000,9.2,9147,no
+honda,petrol ,std,4,sedan,fwd,4,92000,9.2,6670,no
+honda,petrol ,std,4,wagon,fwd,4,92000,9.2,,no
+honda,petrol ,std,2,sedan,fwd,4,110000,9,9820,no
+honda,petrol ,std,2,sedan,fwd,4,110000,9,8940,no
+honda,petrol ,std,4,sedan,fwd,4,110000,9,9031,no
+honda,petrol ,std,4,sedan,fwd,4,110000,9,6514,yes
+honda,petrol ,std,4,sedan,fwd,4,,9,7967,yes
+honda,petrol ,std,2,sedan,fwd,4,110000,9.1,7972,yes
+isuzu,petrol ,std,4,sedan,fwd,4,111000,8.5,7187,yes
+isuzu,petrol ,std,2,sedan,fwd,4,90000,9.6,8023,yes
+isuzu,petrol ,std,4,sedan,fwd,4,90000,9.6,,yes
+isuzu,petrol ,std,2,sedan,fwd,4,119000,9.2,7193,no
+jaguar,petrol ,std,4,sedan,fwd,6,258000,8.1,8112,yes
+jaguar,petrol ,std,4,sedan,fwd,6,258000,8.1,7461,no
+jaguar,petrol ,std,2,sedan,fwd,6,326000,11.5,5440,no
+mazda,petrol ,std,2,sedan,fwd,4,91000,9,8477,yes
+mazda,petrol ,std,2,sedan,fwd,4,91000,9,5916,no
+mazda,petrol ,std,2,sedan,fwd,4,91000,9,9406,yes
+mazda,petrol ,std,4,sedan,fwd,4,91000,9,9787,yes
+mazda,petrol ,std,4,sedan,fwd,4,,9,8398,yes
+mazda,petrol ,std,2,sedan,fwd,3,70000,9.4,8390,yes
+mazda,petrol ,std,2,sedan,fwd,3,70000,,9165,yes
+mazda,petrol ,std,2,sedan,fwd,4,70000,9.4,11657,yes
+mazda,petrol ,std,2,sedan,fwd,4,80000,9.4,6575,yes
+mazda,petrol ,std,2,sedan,fwd,4,122000,8.6,8163,no
+mazda,petrol ,std,4,sedan,fwd,4,122000,8.6,4944,yes
+mazda,petrol ,std,2,sedan,fwd,4,122000,8.6,5351,no
+mazda,petrol ,std,4,sedan,fwd,4,122000,8.6,6277,no
+mazda,diesel,std,2,sedan,fwd,4,122000,22.7,6130,yes
+mazda,petrol ,std,4,sedan,fwd,4,122000,8.6,5786,no
+mazda,petrol ,std,4,sedan,fwd,4,140000,8,9943,no
+mazda,diesel,std,4,sedan,fwd,4,134000,22,4883,no
+mercedes-benz,diesel,turbo,4,sedan,fwd,5,183000,21.5,6324,no
+mercedes-benz,diesel,turbo,4,wagon,fwd,5,183000,21.5,6719,no
+mercedes-benz,diesel,turbo,2,wagon,fwd,5,183000,21.5,8250,no
+mercedes-benz,diesel,turbo,4,sedan,fwd,5,183000,21.5,,no
+mercedes-benz,petrol ,std,4,sedan,fwd,8,234000,8.3,5744,no
+mercedes-benz,petrol ,std,2,sedan,fwd,8,234000,8.3,7912,yes
+mercedes-benz,petrol ,std,4,sedan,fwd,8,308000,8,6506,yes
+mercedes-benz,petrol ,std,2,wagon,fwd,8,304000,8,8504,yes
+mercury,petrol ,turbo,2,sedan,fwd,4,140000,8,8556,yes
+mitsubishi,petrol ,std,2,sedan,fwd,4,92000,9.4,6635,yes
+mitsubishi,petrol ,std,2,sedan,fwd,4,92000,9.4,6505,yes
+mitsubishi,petrol ,std,2,sedan,fwd,4,92000,9.4,6330,no
+mitsubishi,petrol ,turbo,2,sedan,fwd,4,98000,7.6,5729,yes
+mitsubishi,petrol ,turbo,2,sedan,fwd,4,110000,7.5,7107,no
+mitsubishi,petrol ,std,2,sedan,fwd,4,122000,8.5,9661,no
+mitsubishi,petrol ,turbo,2,sedan,fwd,4,,7,7733,yes
+mitsubishi,petrol ,turbo,2,sedan,fwd,4,156000,7,8302,no
+mitsubishi,petrol ,turbo,2,sedan,fwd,4,156000,7,5622,yes
+mitsubishi,petrol ,std,4,sedan,fwd,4,122000,8.5,8642,yes
+mitsubishi,petrol ,std,4,sedan,fwd,4,122000,8.5,9538,yes
+mitsubishi,petrol ,turbo,4,sedan,fwd,4,110000,7.5,6364,yes
+mitsubishi,petrol ,std,4,sedan,fwd,4,110000,7.5,7450,yes
+nissan,petrol ,std,2,sedan,fwd,4,97000,9.4,8315,yes
+nissan,diesel,std,2,sedan,fwd,4,103000,21.9,5085,yes
+nissan,petrol ,std,2,sedan,fwd,4,97000,9.4,,no
+nissan,petrol ,std,4,sedan,fwd,4,97000,9.4,9557,yes
+nissan,petrol ,std,4,wagon,fwd,4,97000,9.4,5302,no
+nissan,petrol ,std,2,sedan,fwd,4,97000,9.4,6804,no
+nissan,petrol ,std,2,sedan,fwd,4,97000,9.4,5399,yes
+nissan,petrol ,std,4,sedan,fwd,4,97000,,9454,no
+nissan,petrol ,std,4,wagon,fwd,4,97000,9.4,7985,no
+nissan,petrol ,std,2,wagon,fwd,4,97000,9.4,9673,no
+nissan,petrol ,std,4,sedan,fwd,4,120000,8.5,8888,no
+nissan,petrol ,std,4,sedan,fwd,4,120000,8.5,9122,no
+nissan,petrol ,std,4,sedan,fwd,6,181000,9,9078,no
+nissan,petrol ,std,4,wagon,fwd,6,181000,9,6309,no
+nissan,petrol ,std,4,sedan,fwd,6,181000,9,7243,no
+nissan,petrol ,std,2,sedan,fwd,6,181000,9,7739,yes
+nissan,petrol ,turbo,2,sedan,fwd,6,181000,7.8,7544,yes
+nissan,petrol ,std,2,sedan,fwd,6,181000,9,8458,yes
+peugot,petrol ,std,4,sedan,fwd,4,120000,8.4,6707,yes
+peugot,diesel,turbo,4,sedan,fwd,4,,21,5960,yes
+peugot,petrol ,std,4,wagon,fwd,4,120000,8.4,5619,yes
+peugot,diesel,turbo,4,wagon,fwd,4,152000,21,4724,no
+peugot,petrol ,std,4,sedan,fwd,4,120000,8.4,7329,yes
+peugot,diesel,turbo,4,sedan,fwd,4,152000,21,5559,no
+peugot,petrol ,std,4,wagon,fwd,4,120000,8.4,5499,no
+peugot,diesel,turbo,4,wagon,fwd,4,152000,21,6152,yes
+peugot,petrol ,std,4,sedan,fwd,4,120000,8.4,9221,no
+peugot,diesel,turbo,4,sedan,fwd,4,152000,21,5022,yes
+peugot,petrol ,turbo,4,sedan,fwd,4,134000,7,10685,yes
+plymouth,petrol ,std,2,sedan,fwd,4,90000,9.4,9006,yes
+plymouth,petrol ,turbo,2,sedan,fwd,4,98000,7.6,9806,yes
+plymouth,petrol ,std,4,sedan,fwd,4,90000,9.4,7712,yes
+plymouth,petrol ,std,4,sedan,fwd,4,90000,9.4,,yes
+plymouth,petrol ,std,4,sedan,fwd,4,,9.4,7974,yes
+plymouth,petrol ,std,4,wagon,fwd,4,122000,8.5,9657,no
+plymouth,petrol ,turbo,2,sedan,fwd,4,156000,7,7794,yes
+porsche,petrol ,std,2,sedan,fwd,4,151000,9.5,7527,no
+porsche,petrol ,std,2,wagon,fwd,6,194000,9.5,8518,no
+porsche,petrol ,std,2,wagon,fwd,6,194000,9.5,10184,yes
+porsche,petrol ,std,2,sedan,fwd,6,194000,9.5,8255,no
+porsche,petrol ,std,2,sedan,fwd,8,203000,10,8228,no
+renault,petrol ,std,4,wagon,fwd,4,132000,8.7,,no
+renault,petrol ,std,2,sedan,fwd,4,132000,8.7,,no
+saab,petrol ,std,2,sedan,fwd,4,121000,9.3,8613,no
+saab,petrol ,std,4,sedan,fwd,4,121000,,8618,no
+saab,petrol ,std,2,sedan,fwd,4,121000,,7718,no
+saab,petrol ,std,4,sedan,fwd,4,121000,9.3,10341,no
+saab,petrol ,turbo,2,sedan,fwd,4,121000,9,6102,yes
+saab,petrol ,turbo,4,sedan,fwd,4,121000,9,9710,yes
+subaru,petrol ,std,2,sedan,fwd,4,97000,9,5743,yes
+subaru,petrol ,std,2,sedan,fwd,4,108000,8.7,,yes
+subaru,petrol ,std,2,sedan,4wd,4,108000,8.7,7844,yes
+subaru,petrol ,std,4,sedan,fwd,4,108000,9.5,9001,yes
+subaru,petrol ,std,4,sedan,fwd,4,108000,9.5,8772,no
+subaru,petrol ,std,4,sedan,fwd,4,108000,9,8633,yes
+subaru,petrol ,std,4,sedan,4wd,4,108000,9,6461,no
+subaru,petrol ,turbo,4,sedan,4wd,4,108000,7.7,8416,no
+subaru,petrol ,std,4,wagon,fwd,4,108000,9,6681,yes
+subaru,petrol ,std,4,wagon,fwd,4,108000,9,5552,no
+subaru,petrol ,std,4,wagon,4wd,4,108000,9,5167,yes
+subaru,petrol ,turbo,4,wagon,4wd,4,108000,7.7,6717,yes
+toyota,petrol ,std,2,sedan,fwd,4,92000,9,5634,yes
+toyota,petrol ,std,2,sedan,fwd,4,92000,9,,yes
+toyota,petrol ,std,4,sedan,fwd,4,,9,8866,yes
+toyota,petrol ,std,4,wagon,fwd,4,92000,9,6055,yes
+toyota,petrol ,std,4,wagon,4wd,4,92000,9,8679,yes
+toyota,petrol ,std,4,wagon,4wd,4,92000,9,9334,no
+toyota,petrol ,std,4,sedan,fwd,4,98000,9,5089,yes
+toyota,petrol ,std,4,sedan,fwd,4,98000,9,5676,no
+toyota,diesel,std,4,sedan,fwd,4,110000,22.5,5164,no
+toyota,diesel,std,4,sedan,fwd,4,110000,22.5,7010,yes
+toyota,petrol ,std,4,sedan,fwd,4,98000,9,9546,no
+toyota,petrol ,std,4,sedan,fwd,4,98000,9,7653,no
+toyota,petrol ,std,4,sedan,fwd,4,98000,9,5023,no
+toyota,petrol ,std,2,sedan,fwd,4,98000,9,7372,no
+toyota,petrol ,std,2,sedan,fwd,4,98000,9,9558,no
+toyota,petrol ,std,2,sedan,fwd,4,98000,9.4,9477,no
+toyota,petrol ,std,2,sedan,fwd,4,98000,,9061,no
+toyota,petrol ,std,2,wagon,fwd,4,146000,9.3,8055,no
+toyota,petrol ,std,2,wagon,fwd,4,146000,9.3,5852,yes
+toyota,petrol ,std,2,sedan,fwd,4,146000,9.3,9191,yes
+toyota,petrol ,std,2,wagon,fwd,4,146000,9.3,8137,yes
+toyota,petrol ,std,2,sedan,fwd,4,146000,9.3,5848,yes
+toyota,petrol ,std,2,sedan,fwd,4,146000,9.3,6849,yes
+toyota,petrol ,std,4,sedan,fwd,4,122000,8.7,5614,yes
+toyota,diesel,turbo,4,sedan,fwd,4,110000,22.5,6155,no
+toyota,petrol ,std,4,sedan,fwd,4,122000,8.7,5917,yes
+toyota,petrol ,std,4,sedan,fwd,4,122000,8.7,5988,no
+toyota,petrol ,std,4,sedan,fwd,4,122000,8.7,5375,no
+toyota,petrol ,std,2,sedan,fwd,6,171000,9.3,8354,yes
+toyota,petrol ,std,2,sedan,fwd,6,,9.3,,no
+toyota,petrol ,std,4,sedan,fwd,6,171000,9.2,5747,yes
+toyota,petrol ,std,4,wagon,fwd,6,161000,9.2,9703,yes
+volkswagen,diesel,std,2,sedan,fwd,4,97000,23,7472,yes
+volkswagen,petrol ,std,2,sedan,fwd,4,109000,9,8425,yes
+volkswagen,diesel,std,4,sedan,fwd,4,97000,23,7546,yes
+volkswagen,petrol ,std,4,sedan,fwd,4,109000,9,7983,yes
+volkswagen,petrol ,std,4,sedan,fwd,4,109000,9,10067,yes
+volkswagen,diesel,turbo,4,sedan,fwd,4,97000,23,5944,no
+volkswagen,petrol ,std,4,sedan,fwd,4,109000,10,9764,yes
+volkswagen,petrol ,std,2,sedan,fwd,4,109000,8.5,7766,no
+volkswagen,petrol ,std,2,sedan,fwd,4,109000,8.5,6157,no
+volkswagen,petrol ,std,4,sedan,fwd,5,136000,8.5,8725,yes
+volkswagen,diesel,turbo,4,sedan,fwd,4,97000,23,4923,no
+volkswagen,petrol ,std,4,wagon,fwd,4,109000,9,8617,no
+volvo,petrol ,std,4,sedan,fwd,4,,9.5,9907,no
+volvo,petrol ,std,4,wagon,fwd,4,141000,9.5,9765,no
+volvo,petrol ,std,4,sedan,fwd,4,141000,9.5,10444,no
+volvo,petrol ,std,4,wagon,fwd,4,141000,9.5,6126,no
+volvo,petrol ,turbo,4,sedan,fwd,4,130000,7.5,10045,no
+volvo,petrol ,turbo,4,wagon,fwd,4,130000,7.5,5513,no
+volvo,petrol ,std,4,sedan,fwd,4,141000,9.5,5806,yes
+volvo,petrol ,turbo,4,sedan,fwd,4,141000,8.7,6529,yes
+volvo,petrol ,std,4,sedan,fwd,6,173000,,7483,yes
+volvo,diesel,turbo,4,sedan,fwd,6,145000,23,8634,yes
+volvo,petrol ,turbo,4,sedan,fwd,4,141000,9.5,9859,yes
