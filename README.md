@@ -42,7 +42,7 @@ A business intelligence dashboard to analyze customer behavior, product usage, a
 **Tools**: Tableau Public Desktop (macOS), Kaggle Dataset  
 Built a dashboard focusing on feature importance and customer segmentation. Interactive visuals reveal customer risk factors and usage patterns. 
 
-🔗[View Tableau Project »](https://github.com/niallcleur/data/tree/f08605364db696bd5b6b87c514aa4190a8b8c2b4/Tableau_CreditCard_Dashboard)
+🔗 [View Tableau Project »](https://github.com/niallcleur/data/tree/f08605364db696bd5b6b87c514aa4190a8b8c2b4/Tableau_CreditCard_Dashboard)
 
 ---
 
