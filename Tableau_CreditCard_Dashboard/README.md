@@ -37,6 +37,6 @@ Support risk assessment by analyzing trends among unknown or high-interest group
 
 dashboard.twbx: Tableau packaged workbook
 
-dashboard_preview.png: Preview image of the dashboard
+dashboard_preview.pdf: Preview PDF of the dashboard
 
 README.md: This file
