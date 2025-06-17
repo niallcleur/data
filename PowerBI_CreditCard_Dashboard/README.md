@@ -56,8 +56,8 @@ Track channel efficiency (swipe, chip, online) to improve infrastructure and red
 
 **📂 Files Included**
 
-Credit_Card_Report.pbix: Power BI project file
+CC-Dashboard.pbix: Power BI project file
 
-dashboard_preview.png: Screenshot of the dashboard
+PowerBi-Dash.pdf: PDF view of the dashboard
 
-README.md: This overview file
+README.md: This overview file and information
