@@ -51,7 +51,7 @@ A complete ML workflow using AWS cloud: cleaning, training, and deploying a frau
 ## 📌 Technical Skills
 
 - **Languages**: Java, Python, SQL, HTML, CSS , AWS Cloud formation. 
-- **Visualization**: Power BI, Tableau, Quicksight
+- **Visualization**: Power BI, Tableau, AWS Quicksight
 - **ML/AI**: Scikit-learn, AWS SageMaker, Pandas, NumPy  
 - **Cloud**: Azure, AWS EC2, S3, RDS, IAM, SageMaker and many more services
 - **Tools**: Jupyter, Git, Jira, Slack, Microsoft Office and more
