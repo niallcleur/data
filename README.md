@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio – Niall Cleur
+# 📊 Data Portfolio – Niall Cleur
 
 Welcome to my AWS, data analytics and machine learning portfolio!  
 
