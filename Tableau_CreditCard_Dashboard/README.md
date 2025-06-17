@@ -1,8 +1,10 @@
 📊**Credit Card Dashboard – Tableau**
+
 This interactive Tableau dashboard provides a comprehensive financial overview of credit card usage trends for the year 2025. 
 It’s designed to help financial institutions, analysts, and decision-makers monitor customer behavior, spending patterns, and revenue-generating activities across key demographics.
 
 📌**Key Insights Visualized:**
+
 Customer Segments by Education & Occupation
 Visual breakdown of spending patterns across education levels (Doctorate, High School, etc.) and job roles (Blue-collar, Businessman, Govt, etc.).
 
@@ -22,6 +24,7 @@ Spending and volume trends by gender (Male/Female)
 Seasonal trends are visualized across Q1 to Q4, enabling quarterly performance comparison.
 
 ✅ **Business Value:**
+
 This dashboard can help financial institutions:
 Identify profitable customer segments for targeted marketing (e.g., Gold and Platinum users who generate high transaction volumes).
 Optimize product offerings by understanding spending categories and trends over time.
@@ -33,7 +36,5 @@ Support risk assessment by analyzing trends among unknown or high-interest group
 📂 Files:
 
 dashboard.twbx: Tableau packaged workbook
-
 dashboard_preview.png: Preview image of the dashboard
-
 README.md: This file
